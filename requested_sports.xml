@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item>
+		<sportId>1</sportId>
+		<sportName>Soccer</sportName>
+		<countryId></countryId>
+	</item>
+	<!--  <item>
+		<sportId>2</sportId>
+		<sportName>Tennis</sportName>
+		<countryId></countryId>
+	</item>
+	<item>
+		<sportId>3</sportId>
+		<sportName>Golf</sportName>
+		<countryId></countryId>
+	</item>
+	<item>
+		<sportId>4</sportId>
+		<sportName>Cricket</sportName>
+		<countryId></countryId>
+	</item>
+	<item>
+		<sportId>7</sportId>
+		<sportName>Horse Racing (USA)</sportName>
+		<countryId>2</countryId>
+	</item>
+	<item>
+		<sportId>7</sportId>
+		<sportName>Horse Racing (UK/IRE)</sportName>
+		<countryId>1</countryId>
+	</item>
+	<item>
+		<sportId>7</sportId>
+		<sportName>Horse Racing (Other)</sportName>
+		<countryId>9999</countryId>
+	</item>
+	<item>
+		<sportId>3503</sportId>
+		<sportName>Darts</sportName>
+		<countryId></countryId>
+	</item>
+	<item>
+		<sportId>4339</sportId>
+		<sportName>Greyhound Racing</sportName>
+		<countryId></countryId>
+	</item>
+	<item>
+		<sportId>7522</sportId>
+		<sportName>Basketball</sportName>
+		<countryId></countryId>
+	</item>
+	<item>
+		<sportId>7524</sportId>
+		<sportName>Ice Hockey</sportName>
+		<countryId></countryId>
+	</item>
+	<item>
+		<sportId>998917</sportId>
+		<sportName>Volleyball</sportName>
+		<countryId></countryId>
+	</item>
+	<item>
+		<sportId>468328</sportId>
+		<sportName>Handball</sportName>
+		<countryId></countryId>
+	</item>
+	<item>
+		<sportId>998918</sportId>
+		<sportName>Bowls</sportName>
+		<countryId></countryId>
+	</item>-->
+</items>
